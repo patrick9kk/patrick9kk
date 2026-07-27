@@ -19,6 +19,10 @@ Atuo na interface entre engenharia elétrica e automação: manutenção e opera
 | Geoprocessamento | Mapeamento de infraestrutura de energia (linhas de transmissão e subestações) em QGIS |
 | Gestão de manutenção | KPIs, indicadores de disponibilidade e metodologia Lean |
 
+#### Atividade no GitHub
+
+![Animação de contribuições](https://raw.githubusercontent.com/patrick9kk/patrick9kk/output/github-contribution-grid-snake.svg)
+
 #### Projetos em destaque
 
 - **Mapa-LTs-Subestacoes-Brasil-QGIS** — mapeamento de linhas de transmissão e subestações do Brasil, com classificação de tensão por cores e exportação simplificada para Google Earth.
