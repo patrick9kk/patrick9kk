@@ -1,16 +1,31 @@
-## Hi there 👋
+### Patrick Maximo Serafim
 
-<!--
-**patrick9kk/patrick9kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Engenharia (DNA Facilities)** | Graduando em Engenharia Elétrica — UnB
+Brasília, DF, Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Sobre
+
+Atuo na interface entre engenharia elétrica e automação: manutenção e operação de sistemas elétricos industriais, com aplicação de análise de dados, sistemas embarcados e metodologias Lean para ganho de eficiência operacional.
+
+#### Áreas de atuação
+
+| Domínio | Aplicação |
+|---|---|
+| Manutenção elétrica industrial | Quadros elétricos, motores, testes de segurança e desempenho |
+| Sistemas embarcados / IoT | Aquisição de dados com ESP32, IMU e GPS |
+| Automação de processos | Scripts Python e Apps Script integrados a APIs e modelos de IA |
+| Geoprocessamento | Mapeamento de infraestrutura de energia (linhas de transmissão e subestações) em QGIS |
+| Gestão de manutenção | KPIs, indicadores de disponibilidade e metodologia Lean |
+
+#### Projetos em destaque
+
+- **Mapa-LTs-Subestacoes-Brasil-QGIS** — mapeamento de linhas de transmissão e subestações do Brasil, com classificação de tensão por cores e exportação simplificada para Google Earth.
+- **ESP32-MPU6050-GPS-SD-Datalogger** — datalogger embarcado (IMU + GPS + cartão SD) para aquisição de dados de campo.
+- **Buscador-de-Precos-Google-Sheets** — automação de pesquisa de preços operada via Google Sheets, com filtragem por Serper API e extração refinada por Gemini.
+
+#### Contato
+
+- LinkedIn: [linkedin.com/in/patrick-maximo-serafim-750729177](https://www.linkedin.com/in/patrick-maximo-serafim-750729177/)
+- E-mail: patrick.cordeiro@dnafacilities.com.br
