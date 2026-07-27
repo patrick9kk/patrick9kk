@@ -21,7 +21,12 @@ Atuo na interface entre engenharia elétrica e automação: manutenção e opera
 
 #### Atividade no GitHub
 
-![Animação de contribuições](https://raw.githubusercontent.com/patrick9kk/patrick9kk/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patrick9kk/patrick9kk/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrick9kk/patrick9kk/output/github-contribution-grid-snake.svg">
+  <img alt="Animação de contribuições no GitHub" src="https://raw.githubusercontent.com/patrick9kk/patrick9kk/output/github-contribution-grid-snake.svg">
+</picture>
+      
 
 #### Projetos em destaque
 
