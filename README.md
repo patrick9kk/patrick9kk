@@ -37,4 +37,4 @@ Atuo na interface entre engenharia elétrica e automação: manutenção e opera
 #### Contato
 
 - LinkedIn: [linkedin.com/in/patrick-maximo-serafim-750729177](https://www.linkedin.com/in/patrick-maximo-serafim-750729177/)
-- E-mail: patrick.cordeiro@dnafacilities.com.br
+
