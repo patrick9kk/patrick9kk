@@ -38,9 +38,21 @@ Meu portfólio reúne aplicações em Python, firmware em C++ para ESP32, geopro
 - **[Buscador de preços no Google Sheets](https://github.com/patrick9kk/Buscador-de-Precos-Google-Sheets)** — automação em Google Apps Script para pesquisar preços, filtrar valores discrepantes e calcular estatísticas na planilha, com implementações que integram Serper, Gemini ou Perplexity.
 - **[Mapa de linhas de transmissão e subestações](https://github.com/patrick9kk/Mapa-LTs-Subestacoes-Brasil-QGIS)** — projeto de mapeamento da infraestrutura elétrica brasileira em QGIS.
 
+#### Projetos privados e internos
+
+Além dos projetos públicos, meu portfólio inclui os trabalhos abaixo. O código-fonte permanece privado; as descrições apresentam apenas o escopo geral dos projetos.
+
+- **Gestão de Manutenção** — sistema web para manutenção predial e facilities, com chamados, ordens de serviço, ativos, planos preventivos, PMOC e almoxarifado. O projeto reúne interface em React/TypeScript e API com Node.js, Fastify e Prisma.
+- **DNA Automação** — plataforma de supervisão predial em estágio de piloto, com telemetria, painéis de utilidades, alarmes, manutenção e relatórios. Envolve React/TypeScript, serviços AWS, coleta IoT e infraestrutura como código com Terraform, organizados em repositórios de frontend, backend, infraestrutura e coleta.
+- **Conectores Niagara/Tridium** — projetos de integração em Python entre a plataforma DNA Automação e bases SQL Server e MySQL de sistemas de automação.
+- **Gerador interno de etiquetas com QR Code** — ferramenta da DNA Facilities para gerar etiquetas em PDF com QR Codes.
+- **Pesquisa de preços para uso interno** — repositório dedicado à automação de pesquisa de preços no contexto da DNA Facilities.
+- **Agentes de IA e documentação técnica** — definições de agentes para desenvolvimento, revisão, análise de dados industriais, sistemas embarcados, energia elétrica e automação do Google Workspace, além de documentação e manuais operacionais da plataforma.
+- **Robô limpador de painéis solares — tradução técnica** — versão em português da documentação do projeto público [CleanEnergy, de adnanO999](https://github.com/adnanO999/CleanEnergy). A autoria técnica original pertence aos respectivos autores.
+
 #### Tecnologias utilizadas nos projetos
 
-Python · C++/Arduino · ESP32 · Streamlit · Google Apps Script · Google Sheets · APIs · QGIS · Git/GitHub
+Python · C++/Arduino · ESP32 · Streamlit · React · TypeScript · Node.js · Fastify · Prisma · AWS · Terraform · SQL Server · MySQL · Google Apps Script · Google Sheets · APIs · QGIS · Git/GitHub
 
 #### Contato
 
